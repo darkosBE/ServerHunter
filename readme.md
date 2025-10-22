@@ -1,4 +1,4 @@
-<img src="https://github.com/darkosBE/ServerHunter/image.png](https://github.com/darkosBE/ServerHunter/blob/main/image.png">
+<img src="https://github.com/darkosBE/ServerHunter/blob/main/image.png">
 ---
 
 # 🎯 ServerHunter
