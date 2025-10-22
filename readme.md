@@ -1,10 +1,4 @@
-<div align="center">
 <img src="https://github.com/darkosBE/ServerHunter/image.pn](https://github.com/darkosBE/ServerHunter/blob/main/image.pngg">
-</div>
-
-Perfect — here’s a **professional, GitHub-ready `README.md`** for your project, now titled **ServerHunter**.
-It includes proper structure, badges, setup steps, usage examples, and technical details suitable for open-source publication.
-
 ---
 
 ````markdown
