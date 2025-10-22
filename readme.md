@@ -152,6 +152,7 @@ If you’d like to improve performance, add new data extraction logic, or integr
 
 Created with ❤️ by **Syzdark**
 For support or collaboration, open an issue or reach out via GitHub.
-
+## DISCORD
+[Discord.gg/syzdevs](https://discord.gg/NUTua32YWn)
 
 ---
