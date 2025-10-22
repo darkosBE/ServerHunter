@@ -6,7 +6,9 @@
 **ServerHunter** is a high-performance, multithreaded Minecraft server scanner built for speed, precision, and data integrity.  
 It scans massive IPv4 ranges to discover active **Minecraft: Java Edition** servers and stores full status data — including MOTD, player lists, mods, and version info — directly in **MongoDB**.
 
-> Designed for researchers, developers, and infrastructure analysts who need reliable server discovery at scale.
+> Designed By Syzdark
+> Announce
+> If anyone would pls help with the development
 
 ---
 
