@@ -1,7 +1,6 @@
-<img src="https://github.com/darkosBE/ServerHunter/image.pn](https://github.com/darkosBE/ServerHunter/blob/main/image.pngg">
+<img src="https://github.com/darkosBE/ServerHunter/image.png](https://github.com/darkosBE/ServerHunter/blob/main/image.png">
 ---
 
-````markdown
 # 🎯 ServerHunter
 
 **ServerHunter** is a high-performance, multithreaded Minecraft server scanner built for speed, precision, and data integrity.  
